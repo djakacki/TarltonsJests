@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+name role = performance
+type= jest
+type= role
+type = sing
+type = theam
+
+persName role =  
+* Tarlton
+* Elizabeth
+
+name role = person
+type= drunkard
+type= watch
+
+name role = food
+type = beer
+type = banquet
+type = wine
+
+name role = emotion
+type = unhappy
+type = please
+type = laugh
+type = shame
+
+name role = body
+type = pimple
+type = stomach
+type = face
+type = body
+
+placeName role =
+* court
+* street
+* palace
+
+placeName type =
+* Fleet_Street
+* Greenwich
+
+
