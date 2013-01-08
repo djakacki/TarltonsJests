@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tarlton's Court Wittie Iests</title>
+        <author>Anonymous</author>
+        <editor>Diane K. Jakacki</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Part of the Tarlton Project digital edition of Tarlton's Jests</p>
+        <p>1613 edition with augmentations from Halliwell-Orchard transcription</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This text was transcribed from the EEBO 1613 edition of Tarlton's Jests, in consultation with John Orchard Halliwell-Phillips' 1846 edition of Tarlton's Jests and Newes from Purgatory. </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="jest">
+         <head>
+          <title><hi rend="italic"><persName role="Tarlton">Tarlton</persName></hi> plaid the <name role="person" type="drunkard">Drunkard</name> before the <persName role="Elizabeth">Queene</persName>.</title>
+        </head>
+      <div type="col" n ="1.1" >
+        <lg>
+        <l n="1" rend="indent">[large T]The <persName role="Elizabeth">Queene</persName> being <name role="emotion" type="unhappy">discontented</name>: </l>
+        <l n="2" rend="indent">  which <persName role="Tarlton">Tarlton</persName> perceiuing, tooke up-</l>
+        <l n="3" rend="indent"> on <persName role="Tarlton">him</persName> to <name role="emotion" type="please">delight</name> <persName role="Elizabeth">her</persName> with some </l>
+        <l n="4" rend="indent">  quaint <name role="performance" type="jest">Jest</name>, whereupon <persName role="Tarlton">he</persName> counter-</l>
+        <l n="5" rend="indent">  feitted a <name role="person" type="drunkard">Drunkard</name>, and calling for </l>
+        <l n="6" rend="indent">  <name role="food" type="beer">Beere</name>, which was brought imme-</l>
+        <l n="7" rend="indent">  diately: Her <persName role="Elizabeth">Maiestie</persName> noting his </l>
+        <l n="8" rend="indent">  humor, commended that <persName role="Tarlton">he</persName> should </l>
+        <l n="9" rend="indent">  haue no more, for quoth <persName role="Elizabeth">she</persName>, <persName role="Tarlton">he</persName> will </l>
+        <l n="10" rend="left"> play the beast, and so <name role="emotion" type="embarrass">shame</name> <persName role="Tarlton">himselfe</persName>. Feare not you quoth </l>
+        <l n="11" rend="left">  <persName role="Tarlton">Tarlton</persName>, for <persName role="Elizabeth">your</persName> <objectType>Beere</objectType> is small enough. Whereat <persName role="Elizabeth">her</persName> </l>
+        <l n="12" rend="left"><persName role="Elizabeth">Maiestie</persName> laughed heartily, and commanded that <persName role="Tarlton">hee</persName> should haue <name role="food" type="beer">enough</name>.</l>
+        </lg>
+      </div>
+        
+    <div type="jest">
+        <head>      
+        <title>How <persName role="Tarlton">Tarlton</persName> deceiued the <name role="person" type="watch">Watch</name> in <placeName role="street" type="Fleet_Street">Fleetstreet</placeName>.</title>
+        </head>
+        <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">[large T]<persName role="Tarlton">Tarlton</persName> having beene late at the <placeName role="court">Court</placeName>, and comming </l>
+          <l n="2" rend="left">homewards through <placeName role="street" type="Fleet_Street">Fleetstreet</placeName>, hee espyed the <name role="person" type="watch">watch</name>, </l>
+          <l n="3" rend="left">not knowing how to passe <name role="person" type="watch">them</name>, went very fast, thinking </l>
+          <l n="4" rend="left">by that meanes to goe unexamined: but the <name role="person" type="watch">Watch-men</name> </l>
+          <l n="5" rend="left">perceiving that <persName role="Tarlton">he</persName> shunned <name role="person" type="watch">them</name>, stept to <persName role="Tarlton">him</persName>, and com-</l>
+          <l n="6" rend="left">manded <persName role="Tarlton">him</persName> (in the <persName role="Elizabeth">Queens</persName> name) to stand. Stand, quoth </l>
+          <l n="7" rend="left"><persName role="Tarlton">Tarlton</persName>, let them stand that can, for <persName role="Tarlton">I</persName> cannot: so falling </l>
+          <l n="8" rend="left">downe as though <persName role="Tarlton">he</persName> had beene drunke, they helpt him up, </l>
+          <l n="9" rend="left">and so let him passe.</l>
+        </lg>
+        </div>
+    </div>
+
+    <div type="jest">
+      <head>
+        <title>How <persName role="Tarlton">Tarlton</persName> flouted a <name role="person" type="lady">Lady</name> in the <placeName role="court">Court</placeName>.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">Vpon a time, <persName role="Tarlton">Tarlton</persName> being among certaine <name role="person" type="lady">Ladies</name> at </l>
+          <l n="2" rend="left">a <name role="food" type="banquet">banquet</name> which was at <placeName role="palace" type="Greenwich">Grenwitch</placeName>, the <persName role="Elizabeth">>Queene</persName> then</l>
+          <l n="3" rend="left">lying there, one of the <name role="person" type="lady">Ladies</name> had <name role="person" type="lady">her</name> face full of <name role="body" type="pimple">pimples</name> </l>
+          <l n="4" rend="left">with heate at <name role="person" type="lady">her</name> <name role="body" type="stomach">stomacke</name>, for which cause <name role="person" type="lady">she</name> refused to </l>
+          <l n="5" rend="left">drinke <name role="food" type="wine">wine</name> amongst the rest of the <name role="person" type="lady">Ladies</name>, which <persName role="Tarlton">Tarlton</persName> </l>
+          <l n= "6" rend="left">perceiuing (for <persName role="Tarlton">he</persName> was there of purpose to <name role="performance" type="jest">iest</name> amongst <name role="person" type="lady">them</name>) </l>
+          <l n="7" rend="left">quoth <persName role="Tarlton">hee</persName>, a <name role="body" type="pimple">murren</name> of that <name role="body" type="face">face</name> which makes all the <name role="body" type="body">body</name> </l>
+          <l n="8" rend="left">fare the worse for it. At which the rest of the <name role="person" type="lady">Ladies</name> <name role="emotion" type="laugh">laught</name>, </l>
+          <l n="9" rend="left">and <name role="person" type="lady">she</name> blushing for <name role="emotion" type="shame">shame</name> left the <name role="food" type="banquet">banquet</name>.</l>
+      </lg>
+      </div>
+    </div>
+
+    <div type="jest">
+      <head>
+        <title>Tarltons opinion of Oysters.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">Certaine Noblemen and Ladies of the Court, being ea-</l>
+          <l n="2" rend="left">ting of Oysters, one of them seeing Tarlton, called him, </l>
+          <l n="3" rend="left">and asked if he loued Oysters: No quoth Tarlton, for they </l>
+          <l n="4" rend="left">be ungodly meat, uncharitable meat, &amp; unprofitable meate: </l>
+          <l n="5" rend="left">why? quoth the Courtiers: they are ungodly, because they </l>
+          <l n="6" rend="left">are eaten without Grace: uncharitable, because they leaue </l>
+          <l n="7" rend="left">nought but shels: and unprofitable, because they must swim </l>
+          <l n="8" rend="left">in wine.</l>
+        </lg>
+      </div>
+    </div>
+        
+    <div type="jest">
+      <head>
+        <title>Tarltons resolution of a question.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">One of the company taking the Gentlemans part, as-</l>
+          <l n="2" rend="left">ked Tarlton at what time he thought the Deuil to be </l>
+          <l n="3" rend="left">most busied? When the Pope dyes quoth he: why? sayes </l>
+          <l n="4" rend="left">the Courtier: Marry (answered he) then all the Diuels are </l>
+          <l n="5" rend="left">troubled and busied to plague him, for he hath sent many a </l>
+          <l n="6" rend="left">soules before him thither, that exclaime against him. </l>
+        </lg>
+      </div>
+    </div>
+        
+    <div type="jest">
+      <head>
+      <title>How a Parsoage fell into Tarltons hands.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">Her Maiesty dining in the Strand at the Lord Treasu-</l>
+          <l n="2" rend="left">rers, the Lords were very desirous that she would </l>
+          <l n="3" rend="left">vouchsafe to stay all night, but nothing could preuaile with </l>
+          <l n="4" rend="left">her: Tarlton was in his Clownes apparell, being all din-</l>
+          <l n="5" rend="left">ner while in the presence with her, to make her merry, and </l>
+          <l n="6" rend="left">hearing the sorrow that the Noblemen made that they could </l>
+          <l n="7" rend="left">not worke her stay, he asked the Nobles what they would </l>
+          <l n="8" rend="left">giue him to worke her stay: the Lords promised him any </l>
+          <l n="9" rend="left">thing, to performe it: quoth hee, procure me the Parsonage </l>
+          <l n="10" rend="left">of Shard. They caused the Patent to be drawne presently, </l>
+          <l n="11" rend="left">he got on a Parsons gowne, and a corner cap, and standing </l>
+          <l n="12" rend="left">upon the staires where the Queene should descend, he repea-</l>
+          <l n="13" rend="left">ted these words: a Parson or no Parson? a Parson or no </l>
+          <l n="14" rend="left">Parson? but after she knew his meaning, she not onely stay-</l>
+          <l n="15" rend="left">ed all night, but the next day willed he should haue posses-</l>
+          <l n="16" rend="left">sion of the benefice: a madder Parson was neuer, for hee </l>
+          <l n="17" rend="left">threatened to turne the Bel-mettel into lyning for his purse, </l>
+          <l n="18" rend="left">which hee did, the Parsonage and all, into ready money.</l>
+        </lg>
+      </div>
+    </div>
+      
+    <div type="jest">
+      <head>
+        <title>How Tarlton proued two Gentlewomen dishonest by their owne words.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">Tarlton seeing in Greenwitch two Gentlewomen in the </l>
+          <l n="2" rend="left">Garden together, to moue myrth, comes to them, and </l>
+          <l n="3" rend="left">enquires thus: Gentlemwomen, which of you two is the ho-</l>
+          <l n="4" rend="left">nester? I, saies the one, I hope without exceptions: and I </l>
+          <l n="5" rend="left">quoth the other, since we must speake for our selues: so then </l>
+          <l n="6" rend="left">saies Tarlton, one of you by your owne words is dishonest, </l>
+          <l n="7" rend="left">one being honester then the other, else you would answere </l>
+          <l n="8" rend="left">otherwise : but as I found you, so I leaue you.</l>
+        </lg>
+      </div>
+    </div>
+    
+    <div type="jest">
+      <head>
+        <title>How Tarlton answered a wanton Gentlewoman.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">A Gentlewoman merily disposed, being crost by Tarlton, </l>
+          <l n="2" rend="left">&amp; halfe angry, said, sirra, a little thing would make me </l>
+          <l n="3" rend="left">requite you with a cuffe: with a cuffe Lady, sayes Tarlton, </l>
+          <l n="4" rend="left">so would you spel my sorrow forward, but spell my sorrow </l>
+          <l n="5" rend="left">backward, then cuffe me and spare not: when the Gentle-</l>
+          <l n="6" rend="left">men by, considered of the Word, their laughing made the </l>
+          <l n="7" rend="left">Simple meaning Gentlewoman to blush for shame.</l>
+        </lg>
+      </div>
+    </div>
+        
+    <div type="jest">
+      <head>
+        <title>How Tarlton dared a Lady.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">At the dinner in the great Chamber where Tarlton </l>
+          <l n="2" rend="left">iested, the Ladies were daring one another: quoth one </l>
+          <l n="3" rend="left">I euer durst any thing that is honest and honourable : a </l>
+          <l n="4" rend="left">French crowne of that, sayes Tarlton: ten pound of that </l>
+          <l n="5" rend="left">sayes the Lady: done sayes one, done sayes another. </l>
+          <l n="6" rend="left">Tarlton put a two-pence betwixt his lips, and dared her to </l>
+          <l n="7" rend="left">take it away with her lips. Fye saies she, that is immodes-</l>
+          <l n="8" rend="left">tie. What, to kisse saies Tarlton? then immodesty beares a </l>
+          <l n="9" rend="left">great hand ouer all : but once in your life say, you </l>
+          <l n="10" rend="left">haue beene beaten at your owne weapon. Well sir, saies she, you </l>
+          <l n="11" rend="left">may say any thing. Then sayes Tarlton, remember I say </l>
+          <l n="12" rend="left">you dare not, and so my wager is good.</l>
+        </lg>
+      </div>
+    </div>
+    
+     <div type="jest">
+       <head>
+        <title>How Tarlton landed at Cukolds hauen.</title>
+       </head>
+    <div type="col" n="1.1">
+      <lg>
+          <l n="1" rend="left">Tarlton being one Sunday at Cuort all day, caused a </l>
+          <l n="2" rend="left">payre of Dares to tend him, who at night called on him </l>
+          <l n="3" rend="left">to be gone: Tarlton being a carousing, drunke so long to the </l>
+          <l n="4" rend="left">Watermen, that one of them was bumpsie, and so indeed </l>
+          <l n="5" rend="left">were all three for the most part: at last they left Greenwitch,</l>
+          <l n="6" rend="left">the Tide being at a great low fall, the Watermen yet af-</l>
+          <l n="7" rend="left">fraid of the crosse Cables by the Lime-house: very darke </l>
+          <l n="8" rend="left">and late as it was, landed Tarlton at Cuckolds-hauen, and </l>
+          <l n="9" rend="left">said the next day they would giue him a reason for it: But </l>
+          <l n="10" rend="left">Tarlton was faine to goe by land to Reddiffe on the durty </l>
+          <l n="11" rend="left">banke, euery step knee deepe : so that comming home, hee </l>
+          <l n="12" rend="left">called one of his boyes to helpe him off with his boots, mea-</l>
+          <l n="13" rend="left">ning his stockings, which were dyed of another colour. </l>
+          <l n="14" rend="left">Whereupon one gaue him this Theame next day.</l>
+          <l n="15" rend="indent">Tarlton tell me, for faine would I know,</l> 
+          <l n="16" rend="indent">If thou wert landed at Culckolds-hauen or no?</l>
+          <l n="17" rend="indent">Tarlton answered thus:</l>
+          <l n="18" rend="indent">Yes Sir, and I tak't in no scorne,</l>
+          <l n="19" rend="indent">For many land there, yet misse of the horne.</l>
+      </lg>
+    </div>
+    </div>
+        
+    <div type="jest">
+      <head>
+        <title>How Tarlton fought with Blacke Dauie.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">Not long since liued a little swaggerer, called blacke Da-</l>
+          <l n="2" rend="left">uie, who would at Sword and Buckler fight with any </l>
+          <l n="3" rend="left">gentleman or other, for 12. pence: he being hired to draw </l>
+          <l n="4" rend="left">upon Tarlton, for breaking a iest upon huffin Kate, a puncke </l>
+          <l n="5" rend="left">as men tearmed her : one euening Tarlton comming forth </l>
+          <l n="6" rend="left">at the Court-gate, being at Whitehal, and walking toward </l>
+          <l n="7" rend="left">the Tilt-yard, this Dauie immediatly drew upon Tarlton: </l>
+          <l n="8" rend="left">who on the sudden, though amazed, drew likewise, and in-</l>
+          <l n="9" rend="left">quired the cause, which Dauie denied, till they had fought a </l>
+          <l n="10" rend="left">bout or two: Tarlton couragiously got within him, and ta-</l>
+          <l n="11" rend="left">king him in his armes, threw him into the Tilt-yard, who </l>
+          <l n="12" rend="left">falling upon his nose, broke it extreamely, that euer-after he</l>
+          <l n="13" rend="left">snuffled in the head; poore Dauie lying all that night in the </l>
+          <l n="14" rend="left">Tilt-yard, expecting the doores to be opened, came forth, and </l>
+          <l n="15" rend="left">at the Barber-surgeons told of this bloody combat, and the </l>
+          <l n="16" rend="left">occasion of it was (quoth hee) because Tarlton being in a </l>
+          <l n="17" rend="left">Tauerne in the companie of this damnable Cockatrice huf-</l>
+          <l n="18" rend="left">fing Kate, called for wine: but she told him that without he </l>
+          <l n="19" rend="left">would burne it, she would not drinke. No quoth Tarlton, it </l>
+          <l n="20" rend="left">shal be burnt, for thou canst burn it without fire: as how fire </l>
+          <l n="21" rend="left">(quoth she) marry thus, take the Cup in thine hand &amp; I will</l> 
+          <l n="22" rend="left">tell thee: So he filling the cup in her hand, said it was burnt </l>
+          <l n="23" rend="left">sufficiently in so fiery a place: she perceiuing her selfe so flou-</l>
+          <l n="24" rend="left">ted, hyred me to be her Chapion to reuenge her quarrell.</l>
+        </lg>
+      </div>
+    </div>
+        
+    <div type="jest">
+      <head>
+        <title>
+          <seg n="1" rend="left">How Tarlton answered the Watchmen comming </seg>
+          <seg n="2" rend="left">from the Court.</seg>
+        </title>
+      </head>
+    <div type="col" n="1.1">
+      <lg>
+          <l n="1" rend="left">Tarlton hauing plaied before the Queen, till one a clock </l>
+          <l n="2" rend="left">at midnight, comming homewards, one of them espied </l>
+          <l n="3" rend="left">him, calling him, sirra, what art though? a woman, sayes </l>
+          <l n="4" rend="left">Tarlton: nay that is lie, saith the Watchmen, women haue </l>
+          <l n="5" rend="left">no such beards: Tarlton replied, if I should haue said a man, </l>
+          <l n="6" rend="left">that you know to be true, and would haue bidden me tell </l>
+          <l n="7" rend="left">you that you know not, therefore I sayd a Woman, and so </l>
+          <l n="8" rend="left">I am all woman, hauing pleased the Queene, being a Wo-</l>
+          <l n="9" rend="left">man: Well sirra sayes another, I present the Queene: then </l>
+          <l n="10" rend="left">I am a woman indeed saies Tarlton as well as you, for you </l>
+          <l n="11" rend="left">haue a beard as well as I, and truly [Mistris Annis?], my </l>
+          <l n="12" rend="left">but he is not done yet, when will yours? leaue thy gybing </l>
+          <l n="13" rend="left">fellow, saith the Watch; the Queens will is that whosoeuer </l>
+          <l n="14" rend="left">is taken without doores after ten a clocke, shall be commmit-</l>
+          <l n="15" rend="left">ted, and now it is past one: commit all such sayes Tarlton,</l> 
+          <l n="16" rend="left">for if it be past one a clocke, it will not be ten this eight </l>
+          <l n="17" rend="left">houres: with that one lifts up his Lanthorne, and looks him </l>
+          <l n="18" rend="left">in the face, and knew him: indeed: M. Tarlton you haue </l>
+          <l n="19" rend="left">more wit then all we, for it is true that ten was before one, </l>
+          <l n="20" rend="left">but now one is before ten, it is true quoth Tarlton, Watch-</l>
+          <l n="21" rend="left">men had wont to haue more wit, but for want of sleepe they</l> 
+          <l n="22" rend="left">are turned fooles: so Tarlton stole from them, and they so </l>
+          <l n="23" rend="left">seeme wise went home to bed. </l>
+      </lg>
+    </div>
+    </div>
+        
+    <div type="jest">
+      <head>
+        <title>Tarltons answere to a Courtier.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">Tarlton being at the Court all night, in the morning he </l>
+          <l n="2" rend="left">met a great Courtier comming from his Chamber, </l>
+          <l n="3" rend="left">who espying Tarlton, said: Good morrow Master Didimus </l>
+          <l n="4" rend="left">and Tridimus: Tarlton being somewhat abashed, not know-</l>
+          <l n="5" rend="left">ing the meaning thereof, sayd: Sir, I understand you not, </l>
+          <l n="6" rend="left">expound I pray you: quoth the Courtier Didimus and Tri-</l>
+          <l n="7" rend="left">dimus, is a foole and a knaue: you ouer-load me replyed </l>
+          <l n="8" rend="left">Tarlton, for my backe cannot beare both, therefore take you </l>
+          <l n="9" rend="left">the one, and I will take the other: take you the knaue, and </l>
+          <l n="10" rend="left">I will carry the foole with me.</l>
+        </lg>
+      </div>
+    </div>
+    
+    <div type="jest">
+      <head>
+        <title>Tarltons quipe for a yong Courtier.</title>
+      </head>
+      <div type="col" n="1.1">
+        <lg>
+          <l n="1" rend="left">There was a yong Gentleman in the Court, that had </l>
+          <l n="2" rend="left">first lyen with the Mother, and after with the Daugh-</l>
+          <l n="3" rend="left">ter, and hauing so done, asked Tarlton what it resembled: </l>
+          <l n="4" rend="left">quoth he, as if you should first haue eaten the Hen, and af-</l>
+          <l n="5" rend="left">ter the Chicken.</l>
+        </lg>
+      </div>
+    </div>
+    
+    <div type="jest">
+      <head>
+        <title>Tarltons answere to a Noblemans question.</title>
+      </head>
+    <div type="col" n="1.1">
+      <lg>
+          <l n="1" rend="left">There was a Nobleman that asked Tarlton what he </l>
+          <l n="2" rend="left">thought of Souldiers in time of peace? Marry quoth </l>
+          <l n="3" rend="left">he, they are like Chimneyes in Summer.</l>
+      </lg>
+    </div>
+    </div>
+        
+    <div type="jest">
+      <head>
+        <title>Tarltons Iest to an vnthriftie Courtier.</title>
+      </head>
+   <div type="col" n="1.1">
+      <lg>
+          <l n="1" rend="left">There was an unthrifftie Gallant belonging to the Court </l>
+          <l n="2" rend="left">that had borrowed fiue pounds of Tarlton, but hauing </l>
+          <l n="3" rend="left">left it at Dice, hee sent his man to Tarlton to borrow fiue </l>
+          <l n="4" rend="left">pounds more, by the same token he owed him alreaday fiue </l>
+          <l n="5" rend="left">pounds: pray tell your Master, quoth Tarlton, that if he will </l>
+          <l n="6" rend="left">send me the token, I will send him the money: for who de-</l>
+          <l n="7" rend="left">ceiues me once, God forgiue him: If twice, God forgiue </l>
+          <l n="8" rend="left">him: but if thrice, God forgiue him, but not me, because </l>
+          <l n="9" rend="left">I could not beware.</l>
+      </lg>
+   </div>
+    </div>
+        
+   <div type="jest">
+    <head>     
+        <title>How Tarlton flouted two Gallants.</title>
+    </head>
+     <div type="col" n="1.1">
+       <lg>
+          <l n="1" rend="left">Tarlton being in a mery vaine, as he walked in the great </l>
+          <l n="2" rend="left">Hall in Greenwitch, he met my old Lord Chamberlain, </l>
+          <l n="3" rend="left">going betweene two fantasticke gallants, &amp; cryed aloud unto </l> 
+          <l n="4" rend="left">him, my Lord, my Lord, you goe in great danger: whereat </l>
+          <l n="5" rend="left">amazed, hee askt whereof: of drowning (quoth Tarlton) </l>
+          <l n="6" rend="left">were it not for those two bladders under each of your armes.</l>
+       </lg>
+     </div>
+   </div>
+      </div>
+    </body>
+  </text>
+</TEI>
